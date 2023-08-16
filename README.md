@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://dharmendra917.github.io/portfolio/](https://dharmendra917.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/Dharmendra917](https://github.com/Dharmendra917)
 
 - 💬 Ask me about **react, next, node, html5, css3, bootstrap, Gsap**
 
