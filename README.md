@@ -1,11 +1,12 @@
  <h1 align="center">Hi 👋, I'm Dharmendra Patel</h1>
 <h3 align="center">A passionate MERN-Stack developer from India</h3>
 
-- 🌱 I’m currently learning **React.js and Next.js**
+- 🌱 I’m currently working as a **Full-Stack Developer**
+- 🌱 I’m currently learning **AWS Cloud and DS&A**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dharmendra917](https://github.com/Dharmendra917)
 
-- 💬 Ask me about **react, next, node, html5, css3, bootstrap, Gsap**
+- 💬 Ask me about **react, next, node, html5, css3, bootstrap, Gsap,**
 
 - 📫 How to reach me **dharmendrapatel0200@gmail.com**
 
